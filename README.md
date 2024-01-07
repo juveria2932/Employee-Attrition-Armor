@@ -7,9 +7,14 @@ By identifying patterns and key indicators with the help of correlation matrix w
 Three different machine learning algorithms are used in the project to determine the best suitable algorithm which provides better accuracy and performance among them.
 
 
+# Technologies Used:
 
 Machine Learning Algorithms: Support Vector Machine, Random Forest Classification, Gaussian Naïve Bayes
-Libraries Used – Pandas , Matplotlib , Numpy, Scikit-learn, Seaborn, OneHotEncoder 
-Language Used: Python 
+
+Libraries Used: Pandas, Matplotlib, Numpy, Scikit-learn, Seaborn, OneHotEncoder
+
+Language Used: Python
+
 Platform Used: Google Colaboratory
+
 Dataset: IBM HR  Employee Attrition 
